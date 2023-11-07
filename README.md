@@ -1,4 +1,4 @@
-# Sprite_Editor
+# Sprite_Editor: A canvas project
 A small JavaFX based canvas project which can load picture, and doing various drawing operations
 Functions of canvas:
 

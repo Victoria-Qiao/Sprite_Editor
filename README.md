@@ -7,6 +7,7 @@ Functions of canvas:
 3) Eraser: Clean previous drawing
 4) Show & Hide: show and hide grid reference, each grid represents a pixel.
 5) File (on the top left): Can load PNG files to edit, also can save drawings to PNG files.
+6) Filling: Filling certain region with the same color.
 
 
 ![image](https://github.com/Victoria-Qiao/Sprite_Editor/assets/135839176/3941724f-4996-4a15-a08f-0f6b9c747598)
